@@ -72,7 +72,7 @@ Navigate without constantly checking your map using acoustic beeping that increa
 
 ---
 
-### ���️ Settings
+### Settings
 Configure auto-updates and enable **Stream Mode** for safer public gameplay. Stream Mode disables map markers, uses radar guidance only, and enables stealth aimbot behavior.
 
 ![Settings Panel](https://i.imgur.com/N1tFtwr.png)

